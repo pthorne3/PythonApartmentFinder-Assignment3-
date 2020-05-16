@@ -1,2 +1,2 @@
 # PythonApartmentFinder-Assignment3-
-As simple python program used to demonstrate the use of multiple functions.
+As simple python program used to demonstrates the use of multiple files.
